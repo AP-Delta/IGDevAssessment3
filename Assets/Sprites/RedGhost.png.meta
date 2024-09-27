@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: c9fde3f75d2767b4986c429456030eb7
+guid: d92f0aae6186b6a47b0f2078d6e1d05e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7903181090054569748
-    second: Pellets_0
+      213: -8293842954131872675
+    second: RedGhost_0
+  - first:
+      213: -2692779829071462679
+    second: RedGhost_1
+  - first:
+      213: -6216957985850127810
+    second: RedGhost_2
+  - first:
+      213: -2910815570329131917
+    second: RedGhost_3
+  - first:
+      213: 1014244806575381221
+    second: RedGhost_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -53,7 +65,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 0
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -100,43 +112,106 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pellets_0
+      name: RedGhost_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 46
-        width: 5
-        height: 5
+        x: 11
+        y: 70
+        width: 11
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 258746868240a8843b1891c3fb280c33
-      internalID: 1769293738
+      spriteID: d54e710a6c956ec80800000000000000
+      internalID: -8293842954131872675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pellets_1
+      name: RedGhost_1
       rect:
         serializedVersion: 2
-        x: 11
-        y: 12
-        width: 9
-        height: 9
+        x: 43
+        y: 70
+        width: 11
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 544223b7323fcaa4ab67e158ed7a9b24
-      internalID: -1955001890
+      spriteID: 9eebbdd230351aad0800000000000000
+      internalID: -2692779829071462679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedGhost_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 38
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a00e596ade8b9a0800000000000000
+      internalID: -6216957985850127810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedGhost_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3742bd339a4ba97d0800000000000000
+      internalID: -2910815570329131917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedGhost_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 17
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ead5332742531e00800000000000000
+      internalID: 1014244806575381221
       vertices: []
       indices: 
       edges: []
@@ -144,16 +219,14 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: e20c65c5864124348939597b4b251b69
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Pellets_0: 1769293738
-      Pellets_1: -1955001890
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

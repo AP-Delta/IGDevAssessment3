@@ -1,13 +1,22 @@
 fileFormatVersion: 2
-guid: 9939601ad2dcba448a2ce1974db2d55b
+guid: 339de2b3cf8e1284da5410e720c940f0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7397334986708289481
-    second: GreenGhosts_0
+      213: -2509442644804387239
+    second: PurpleGhost_0
   - first:
-      213: -1811163755997149433
-    second: GreenGhosts_1
+      213: 5782760524697358862
+    second: PurpleGhost_1
+  - first:
+      213: 5783462381149175665
+    second: PurpleGhost_2
+  - first:
+      213: 4843036020953595921
+    second: PurpleGhost_3
+  - first:
+      213: 2254274421897802128
+    second: PurpleGhost_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,28 +112,91 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GreenGhosts_0
+      name: PurpleGhost_0
       rect:
         serializedVersion: 2
         x: 11
-        y: 17
+        y: 70
         width: 11
-        height: 40
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 738fea8b503675990800000000000000
-      internalID: -7397334986708289481
+      spriteID: 95eb73cc53bac2dd0800000000000000
+      internalID: -2509442644804387239
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GreenGhosts_1
+      name: PurpleGhost_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 70
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02dcbf0f0e704050800000000000000
+      internalID: 5782760524697358862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleGhost_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 38
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f3b30c46cf24050800000000000000
+      internalID: 5783462381149175665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleGhost_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1104c5ff99be53340800000000000000
+      internalID: 4843036020953595921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleGhost_4
       rect:
         serializedVersion: 2
         x: 43
@@ -132,14 +204,35 @@ TextureImporter:
         width: 11
         height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7074abde8247dd6e0800000000000000
-      internalID: -1811163755997149433
+      spriteID: 091b77f94aac84f10800000000000000
+      internalID: 2254274421897802128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleGhost_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 17
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d6db43542f9b044ab58fd97467ff03
+      internalID: -1241010193
       vertices: []
       indices: 
       edges: []
@@ -147,14 +240,15 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 39e8bb36948c2434abd1c5e13ac3c9b0
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PurpleGhost_5: -1557844884
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
