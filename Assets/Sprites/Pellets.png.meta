@@ -53,7 +53,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -103,19 +103,19 @@ TextureImporter:
       name: Pellets_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 12
-        width: 9
-        height: 39
+        x: 12
+        y: 13
+        width: 7
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ce086b3eba2425290800000000000000
-      internalID: -7903181090054569748
+      spriteID: 258746868240a8843b1891c3fb280c33
+      internalID: 1769293738
       vertices: []
       indices: 
       edges: []
@@ -123,14 +123,15 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e20c65c5864124348939597b4b251b69
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pellets_0: 1769293738
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
